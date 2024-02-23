@@ -1,0 +1,11 @@
+[Unit]
+Description=Runs fetch_joke.service every 20 seconds
+
+[Timer]
+OnBootSec=10sec
+OnUnitActiveSec=20sec
+Unit=fetch_joke.service
+
+[Install]
+WantedBy=timers.target
+
