@@ -1,0 +1,7 @@
+[Unit]
+Description=Fetch Chuck Norris Joke
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /usr/local/bin/fetch_joke.py
+
