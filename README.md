@@ -28,6 +28,10 @@ Chuck gets angry if you try to ``make clean``, so don't even go there.
 
 Once loaded, sit back and enjoy the jokes flooding your kernel logs. Or get on Chuck's good side by writing to /dev/joke.
 
+
+![image](https://github.com/krishjainx/joke/assets/75043245/4a62f49f-608f-4fee-8b7f-bbafc1335cc6)
+
+
 **Uninstallation**
 
 DO NOT attempt to uninstall this module without Chuck's permission. He has taken a liking to your computer and decided to stay. If you try to remove him against his will, your CPU may explode out of fear. You have been warned.
